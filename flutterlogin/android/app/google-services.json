@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "52106218801",
+    "project_id": "createlogin-63402",
+    "storage_bucket": "createlogin-63402.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:52106218801:android:7d2ec00ae88296d776f410",
+        "android_client_info": {
+          "package_name": "com.eliseu.createlogin"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCsguWtyOwgNsX7DjSPyYC5ZraKhUwmD1w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:52106218801:android:81f802b046b937e776f410",
+        "android_client_info": {
+          "package_name": "com.exemplo.flutterlogin"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCsguWtyOwgNsX7DjSPyYC5ZraKhUwmD1w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
